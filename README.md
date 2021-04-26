@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rupu05
+- 👋 Hi, I’m @ThakurRupesh05
 - 👀 I’m interested in ...solving problems and creating more problems.
 - 🌱 I’m currently learning ...vi edtior and webdevelopment.
 - 💞️ I’m looking to collaborate on ...any web projects.
